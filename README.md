@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie Recommendation System Using Machine Learning 
 
 Project Details:
 
