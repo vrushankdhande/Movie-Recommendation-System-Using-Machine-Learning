@@ -2,9 +2,13 @@
 
 Project Details:
 
-I would like to introduce a small-scale project focused on movie recommendations. The project's website, accessible at https://recogoo.herokuapp.com/, serves as a platform for providing personalized movie suggestions to users. The movie data utilized for this project has been sourced from IMDB.
+I would like to introduce a small-scale project focused on movie recommendations. The project's website, 
+accessible at https://recogoo.herokuapp.com/, 
+serves as a platform for providing personalized movie suggestions to users. The movie data utilized for this project has been sourced from IMDB.
 
-To facilitate access to the project's data, I have stored it on Google Drive. You can find the dataset at the following link: https://drive.google.com/drive/folders/1Nc2rb4wlkkQFkA4j7s7R7MjZlGnYroWF?usp=sharing. This dataset encompasses six movie recommendations tailored for users.
+To facilitate access to the project's data, I have stored it on Google Drive. 
+You can find the dataset at the following link: https://drive.google.com/drive/folders/1Nc2rb4wlkkQFkA4j7s7R7MjZlGnYroWF?usp=sharing. 
+This dataset encompasses six movie recommendations tailored for users.
 
 The project's foundation lies in machine learning techniques, with the primary focus on utilizing the Vectorizer approach. The initial phase involved collecting and preprocessing the data. This included extracting key categories such as actors, genres, movie names, ratings, and movie IDs. To enhance the data quality, I meticulously removed blank spaces and duplicates. The culmination of this phase was the creation of a comprehensive movie.csv file.
 
